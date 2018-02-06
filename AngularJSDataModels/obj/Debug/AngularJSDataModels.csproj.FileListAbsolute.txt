@@ -1,0 +1,15 @@
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.csprojResolveAssemblyReference.cache
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.dll.config
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.dll
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.pdb
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\EntityFramework.dll
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\EntityFramework.xml
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.csprojResolveAssemblyReference.cache
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.dll
+C:\code\angular\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.pdb
